@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 # Palindrom finder
 import time
 
